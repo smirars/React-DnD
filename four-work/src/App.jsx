@@ -6,8 +6,8 @@ function App() {
   return (
   <Router>
     <Routes>
-      <Route path="/" element={<TodoPage />} />
-      <Route path="/dnd" element={<DndPage />} />
+      <Route path="https://smirars.github.io/React-DnD/" element={<TodoPage />} />
+      <Route path="https://smirars.github.io/React-DnD/#/dnd" element={<DndPage />} />
     </Routes>
   </Router>
   );
