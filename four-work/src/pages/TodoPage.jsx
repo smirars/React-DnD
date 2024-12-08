@@ -49,7 +49,7 @@ function TodoPage() {
                 <button type="submit">Add</button>
             </form>
             <TodoList todos={todos} toggleTodo={toggleTodo} deleteTodo={deleteTodo} />
-            <a href="https://smirars.github.io/React-DnD/#/dnd" className='goback_btn'>
+            <a href="/dnd" className='goback_btn'>
                 На dnd страницу
             </a>
         </div>
