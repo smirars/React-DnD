@@ -146,7 +146,7 @@ function DndPage() {
           />
         ))}
       </div>
-      <a href='/' className='goback_btn'>Вернуться назад</a>
+      <a href='https://smirars.github.io/React-DnD/' className='goback_btn'>Вернуться назад</a>
     </DndProvider>
   );
 }
